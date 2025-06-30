@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\University\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\Graphics\\1\\lab5cp2025-AndriichukBogdan\\Task1(Ermit)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{982B58FD-5CCC-4167-83D5-222147AE3CE1}|Task1(Ermit).csproj|d:\\projects\\university\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\graphics\\1\\lab5cp2025-andriichukbogdan\\task1(ermit)\\ermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{982B58FD-5CCC-4167-83D5-222147AE3CE1}|Task1(Ermit).csproj|solutionrelative:ermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B58FD-5CCC-4167-83D5-222147AE3CE1}|Task1(Ermit).csproj|d:\\projects\\university\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\graphics\\1\\lab5cp2025-andriichukbogdan\\task1(ermit)\\ermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B58FD-5CCC-4167-83D5-222147AE3CE1}|Task1(Ermit).csproj|solutionrelative:ermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B58FD-5CCC-4167-83D5-222147AE3CE1}|Task1(Ermit).csproj|d:\\projects\\university\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\graphics\\1\\lab5cp2025-andriichukbogdan\\task1(ermit)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B58FD-5CCC-4167-83D5-222147AE3CE1}|Task1(Ermit).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B58FD-5CCC-4167-83D5-222147AE3CE1}|Task1(Ermit).csproj|d:\\projects\\university\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\graphics\\1\\lab5cp2025-andriichukbogdan\\task1(ermit)\\ermit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B58FD-5CCC-4167-83D5-222147AE3CE1}|Task1(Ermit).csproj|solutionrelative:ermit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ermit.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\University\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\Graphics\\1\\lab5cp2025-AndriichukBogdan\\Task1(Ermit)\\Ermit.cs",
+              "RelativeDocumentMoniker": "Ermit.cs",
+              "ToolTip": "D:\\Projects\\University\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\Graphics\\1\\lab5cp2025-AndriichukBogdan\\Task1(Ermit)\\Ermit.cs [Design]",
+              "RelativeToolTip": "Ermit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:02:08.284Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{75504045-d02f-44e5-bf60-5f60df380e8b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ermit.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\University\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\Graphics\\1\\lab5cp2025-AndriichukBogdan\\Task1(Ermit)\\Ermit.Designer.cs",
+              "RelativeDocumentMoniker": "Ermit.Designer.cs",
+              "ToolTip": "D:\\Projects\\University\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\Graphics\\1\\lab5cp2025-AndriichukBogdan\\Task1(Ermit)\\Ermit.Designer.cs",
+              "RelativeToolTip": "Ermit.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA+wAYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:04:07.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\University\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\Graphics\\1\\lab5cp2025-AndriichukBogdan\\Task1(Ermit)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\University\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\Graphics\\1\\lab5cp2025-AndriichukBogdan\\Task1(Ermit)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:04:04.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ermit.cs",
+              "DocumentMoniker": "D:\\Projects\\University\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\Graphics\\1\\lab5cp2025-AndriichukBogdan\\Task1(Ermit)\\Ermit.cs",
+              "RelativeDocumentMoniker": "Ermit.cs",
+              "ToolTip": "D:\\Projects\\University\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\2\\Graphics\\1\\lab5cp2025-AndriichukBogdan\\Task1(Ermit)\\Ermit.cs",
+              "RelativeToolTip": "Ermit.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwEkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:03:04.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

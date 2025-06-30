@@ -1,0 +1,17 @@
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\bin\Debug\net8.0-windows\Task1(Ermit).exe
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\bin\Debug\net8.0-windows\Task1(Ermit).deps.json
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\bin\Debug\net8.0-windows\Task1(Ermit).runtimeconfig.json
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\bin\Debug\net8.0-windows\Task1(Ermit).dll
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\bin\Debug\net8.0-windows\Task1(Ermit).pdb
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1_Ermit_.Ermit.resources
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1(Ermit).csproj.GenerateResource.cache
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1(Ermit).GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1(Ermit).AssemblyInfoInputs.cache
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1(Ermit).AssemblyInfo.cs
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1(Ermit).csproj.CoreCompileInputs.cache
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1(Ermit).sourcelink.json
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1(Ermit).dll
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\refint\Task1(Ermit).dll
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1(Ermit).pdb
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\Task1(Ermit).genruntimeconfig.cache
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task1(Ermit)\obj\Debug\net8.0-windows\ref\Task1(Ermit).dll
