@@ -35,7 +35,6 @@ namespace Task1_Ermit_
 
             double x, y;
             double lastX = 0, lastY = 0;
-            bool firstPoint = true;
 
             Graphics g = panel1.CreateGraphics();
             Pen bluePen = new Pen(Color.Blue, 2);
@@ -43,21 +42,14 @@ namespace Task1_Ermit_
 
             for (double t = 0; t <= 1; t += 0.001)
             {
-                x = Point1x * (2 * t * t * t - 3 * t * t + 1) +
-                    Point2x * (-2 * t * t * t + 3 * t * t) +
-                    Vector1x * (t * t * t - 2 * t * t + t) +
-                    Vector2x * (t * t * t - t * t);
+                x = Point1x * (2 * t * t * t - 3 * t * t + 1) + Point2x * (-2 * t * t * t + 3 * t * t) + Vector1x * (t * t * t - 2 * t * t + t) + Vector2x * (t * t * t - t * t);
 
-                y = Point1y * (2 * t * t * t - 3 * t * t + 1) +
-                    Point2y * (-2 * t * t * t + 3 * t * t) +
-                    Vector1y * (t * t * t - 2 * t * t + t) +
-                    Vector2y * (t * t * t - t * t);
+                y = Point1y * (2 * t * t * t - 3 * t * t + 1) + Point2y * (-2 * t * t * t + 3 * t * t) + Vector1y * (t * t * t - 2 * t * t + t) + Vector2y * (t * t * t - t * t);
 
-                if (firstPoint)
+                if (t == 0)
                 {
                     lastX = x;
                     lastY = y;
-                    firstPoint = false;
                 }
                 else
                 {

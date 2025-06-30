@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task1(Ermit)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e15ebc5d1ed05aa91f5f09d03fa541a232a8ae2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb5474c1c9388fb719650e12bea2ab3769504706")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task1(Ermit)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task1(Ermit)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

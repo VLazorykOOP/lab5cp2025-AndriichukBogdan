@@ -1,0 +1,17 @@
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\bin\Debug\net8.0-windows\Task2(Flower).exe
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\bin\Debug\net8.0-windows\Task2(Flower).deps.json
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\bin\Debug\net8.0-windows\Task2(Flower).runtimeconfig.json
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\bin\Debug\net8.0-windows\Task2(Flower).dll
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\bin\Debug\net8.0-windows\Task2(Flower).pdb
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2(Flower).csproj.GenerateResource.cache
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2(Flower).GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2(Flower).AssemblyInfoInputs.cache
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2(Flower).AssemblyInfo.cs
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2(Flower).csproj.CoreCompileInputs.cache
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2(Flower).sourcelink.json
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2(Flower).dll
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\refint\Task2(Flower).dll
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2(Flower).pdb
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2(Flower).genruntimeconfig.cache
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\ref\Task2(Flower).dll
+D:\Projects\University\Практика\2\Graphics\1\lab5cp2025-AndriichukBogdan\Task2(Flower)\obj\Debug\net8.0-windows\Task2_Flower_.Flower.resources
